@@ -1,0 +1,4 @@
+{
+  "dl": "https://crates-io-local.herokuapp.com/api/v1/crates",
+  "api": "https://crates-io-local.herokuapp.com/"
+}
